@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebBanHangOnline",
+    "\\WebBanHangOnline\\WebBanHangOnline",
+    "\\WebBanHangOnline\\WebBanHangOnline\\Areas",
+    "\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin",
+    "\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views",
+    "\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Posts",
+    "\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Products",
+    "\\WebBanHangOnline\\WebBanHangOnline\\Views",
+    "\\WebBanHangOnline\\WebBanHangOnline\\Views\\Shared"
+  ],
+  "SelectedNode": "\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Add.cshtml",
+  "PreviewInSolutionExplorer": false
+}
